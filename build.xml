@@ -1,4 +1,4 @@
-<project name="javatasks" default="run">
+<project name="javatasks1" default="run">
 <target name ="compile" description="compile the java files">
 <mkdir dir="build/classes"/>
 <javac srcdir="src" destdir="build/classes"/>
